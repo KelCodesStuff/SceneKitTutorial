@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -110,9 +110,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DB16F22D1D34C291006BA99C /* partI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = partI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DB16F22D1D34C291006BA99C /* Flight Arcade.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flight Arcade.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB16F23E1D34C292006BA99C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DB55EEE91FE38E9900C2E1CC /* partII.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = partII.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DB55EEE91FE38E9900C2E1CC /* Flight Arcade.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flight Arcade.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB55EEF91FE38E9A00C2E1CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DB55EF001FE38FA800C2E1CC /* assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = assets.xcassets; sourceTree = "<group>"; };
 		DB55EF011FE38FA900C2E1CC /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -129,7 +129,7 @@
 		DB55EF231FE3923B00C2E1CC /* GameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		DB55EF451FE3939400C2E1CC /* Base.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Base.lproj; sourceTree = "<group>"; };
 		DBBE57E61FF1FF7A0052F32B /* RB+UIColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RB+UIColor.swift"; sourceTree = "<group>"; };
-		DBCE99611FEFAF1500DEE81F /* partIV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = partIV.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBCE99611FEFAF1500DEE81F /* Flight Arcade.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flight Arcade.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBCE99711FEFAF1500DEE81F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DBCE997D1FEFAFCA00DEE81F /* GameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		DBCE997E1FEFAFCB00DEE81F /* Ring.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ring.swift; sourceTree = "<group>"; };
@@ -142,7 +142,7 @@
 		DBCE998D1FEFB66D00DEE81F /* GameObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameObject.swift; sourceTree = "<group>"; };
 		DBCE998F1FEFBA8100DEE81F /* RBLog.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RBLog.swift; sourceTree = "<group>"; };
 		DBCE99911FEFC3A800DEE81F /* Handicap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Handicap.swift; sourceTree = "<group>"; };
-		DBDCD56E1FF2CE1400C38FCF /* partV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = partV.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBDCD56E1FF2CE1400C38FCF /* Flight Arcade.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flight Arcade.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBDCD57E1FF2CE1400C38FCF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DBDCD58E1FF2CEB000C38FCF /* Handicap.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Handicap.swift; sourceTree = "<group>"; };
 		DBDCD58F1FF2CEB000C38FCF /* GameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
@@ -152,7 +152,7 @@
 		DBDCD5931FF2CEB000C38FCF /* GameLevel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameLevel.swift; sourceTree = "<group>"; };
 		DBDCD5941FF2CEB000C38FCF /* GameObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameObject.swift; sourceTree = "<group>"; };
 		DBDCD5951FF2CEB100C38FCF /* HUD.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HUD.swift; sourceTree = "<group>"; };
-		DBDCD5A21FF3D54B00C38FCF /* partVI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = partVI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBDCD5A21FF3D54B00C38FCF /* Flight Arcade.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flight Arcade.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBDCD5B21FF3D54B00C38FCF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DBDCD5C21FF3D5C900C38FCF /* HUD.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HUD.swift; sourceTree = "<group>"; };
 		DBDCD5C31FF3D5C900C38FCF /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
@@ -168,7 +168,7 @@
 		DBDCD5DC1FF42CEA00C38FCF /* GameSound.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameSound.swift; sourceTree = "<group>"; };
 		DBDCD5DE1FF42E0100C38FCF /* sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; path = sounds; sourceTree = "<group>"; };
 		DBDCD5E21FF4F88200C38FCF /* RB+SCNVector.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RB+SCNVector.swift"; sourceTree = "<group>"; };
-		DBF8C5EC1FEE73D700FAADF4 /* partIII.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = partIII.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBF8C5EC1FEE73D700FAADF4 /* Flight Arcade.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flight Arcade.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBF8C5FC1FEE73D800FAADF4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DBF8C6061FEE746D00FAADF4 /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		DBF8C6071FEE746D00FAADF4 /* GameLevel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameLevel.swift; sourceTree = "<group>"; };
@@ -244,12 +244,12 @@
 		DB16F22E1D34C291006BA99C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DB16F22D1D34C291006BA99C /* partI.app */,
-				DB55EEE91FE38E9900C2E1CC /* partII.app */,
-				DBF8C5EC1FEE73D700FAADF4 /* partIII.app */,
-				DBCE99611FEFAF1500DEE81F /* partIV.app */,
-				DBDCD56E1FF2CE1400C38FCF /* partV.app */,
-				DBDCD5A21FF3D54B00C38FCF /* partVI.app */,
+				DB16F22D1D34C291006BA99C /* Flight Arcade.app */,
+				DB55EEE91FE38E9900C2E1CC /* Flight Arcade.app */,
+				DBF8C5EC1FEE73D700FAADF4 /* Flight Arcade.app */,
+				DBCE99611FEFAF1500DEE81F /* Flight Arcade.app */,
+				DBDCD56E1FF2CE1400C38FCF /* Flight Arcade.app */,
+				DBDCD5A21FF3D54B00C38FCF /* Flight Arcade.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -387,7 +387,7 @@
 			);
 			name = partI;
 			productName = game;
-			productReference = DB16F22D1D34C291006BA99C /* partI.app */;
+			productReference = DB16F22D1D34C291006BA99C /* Flight Arcade.app */;
 			productType = "com.apple.product-type.application";
 		};
 		DB55EEE81FE38E9900C2E1CC /* partII */ = {
@@ -404,7 +404,7 @@
 			);
 			name = partII;
 			productName = partII;
-			productReference = DB55EEE91FE38E9900C2E1CC /* partII.app */;
+			productReference = DB55EEE91FE38E9900C2E1CC /* Flight Arcade.app */;
 			productType = "com.apple.product-type.application";
 		};
 		DBCE99601FEFAF1500DEE81F /* partIV */ = {
@@ -421,7 +421,7 @@
 			);
 			name = partIV;
 			productName = partIV;
-			productReference = DBCE99611FEFAF1500DEE81F /* partIV.app */;
+			productReference = DBCE99611FEFAF1500DEE81F /* Flight Arcade.app */;
 			productType = "com.apple.product-type.application";
 		};
 		DBDCD56D1FF2CE1400C38FCF /* partV */ = {
@@ -438,7 +438,7 @@
 			);
 			name = partV;
 			productName = partV;
-			productReference = DBDCD56E1FF2CE1400C38FCF /* partV.app */;
+			productReference = DBDCD56E1FF2CE1400C38FCF /* Flight Arcade.app */;
 			productType = "com.apple.product-type.application";
 		};
 		DBDCD5A11FF3D54B00C38FCF /* partVI */ = {
@@ -455,7 +455,7 @@
 			);
 			name = partVI;
 			productName = partVI;
-			productReference = DBDCD5A21FF3D54B00C38FCF /* partVI.app */;
+			productReference = DBDCD5A21FF3D54B00C38FCF /* Flight Arcade.app */;
 			productType = "com.apple.product-type.application";
 		};
 		DBF8C5EB1FEE73D700FAADF4 /* partIII */ = {
@@ -472,7 +472,7 @@
 			);
 			name = partIII;
 			productName = partIII;
-			productReference = DBF8C5EC1FEE73D700FAADF4 /* partIII.app */;
+			productReference = DBF8C5EC1FEE73D700FAADF4 /* Flight Arcade.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -482,46 +482,46 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0910;
-				LastUpgradeCheck = 0900;
-				ORGANIZATIONNAME = "Roger Boesch";
+				LastUpgradeCheck = 1140;
+				ORGANIZATIONNAME = "Kelvin Reid";
 				TargetAttributes = {
 					DB16F22C1D34C291006BA99C = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = F46T393V5A;
+						DevelopmentTeam = WC92Z884R6;
 						DevelopmentTeamName = "Roger Boesch";
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
 					DB55EEE81FE38E9900C2E1CC = {
 						CreatedOnToolsVersion = 9.1;
-						DevelopmentTeam = F46T393V5A;
+						DevelopmentTeam = WC92Z884R6;
 						ProvisioningStyle = Automatic;
 					};
 					DBCE99601FEFAF1500DEE81F = {
 						CreatedOnToolsVersion = 9.1;
-						DevelopmentTeam = F46T393V5A;
+						DevelopmentTeam = WC92Z884R6;
 						ProvisioningStyle = Automatic;
 					};
 					DBDCD56D1FF2CE1400C38FCF = {
 						CreatedOnToolsVersion = 9.1;
-						DevelopmentTeam = F46T393V5A;
+						DevelopmentTeam = WC92Z884R6;
 						ProvisioningStyle = Automatic;
 					};
 					DBDCD5A11FF3D54B00C38FCF = {
 						CreatedOnToolsVersion = 9.1;
-						DevelopmentTeam = F46T393V5A;
+						DevelopmentTeam = WC92Z884R6;
 						ProvisioningStyle = Automatic;
 					};
 					DBF8C5EB1FEE73D700FAADF4 = {
 						CreatedOnToolsVersion = 9.1;
-						DevelopmentTeam = F46T393V5A;
+						DevelopmentTeam = WC92Z884R6;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
 			buildConfigurationList = DB16F2281D34C291006BA99C /* Build configuration list for PBXProject "tutorial" */;
-			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			compatibilityVersion = "Xcode 11.0";
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
@@ -737,6 +737,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -746,6 +747,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -753,6 +755,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -779,7 +782,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -792,6 +795,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -801,6 +805,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -808,6 +813,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -828,10 +834,11 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -841,15 +848,20 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = WC92Z884R6;
 				INFOPLIST_FILE = partI/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.rogerboesch.tutorial-partI";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kelvinreid.flightarcade;
+				PRODUCT_NAME = "Flight Arcade";
 				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
 				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -858,14 +870,19 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = WC92Z884R6;
 				INFOPLIST_FILE = partI/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.rogerboesch.tutorial-partI";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kelvinreid.flightarcade;
+				PRODUCT_NAME = "Flight Arcade";
 				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
 				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -879,13 +896,16 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = F46T393V5A;
+				DEVELOPMENT_TEAM = WC92Z884R6;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = partII/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.rogerboesch.tutorial.partII;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kelvinreid.flightarcade;
+				PRODUCT_NAME = "Flight Arcade";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -900,13 +920,16 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = F46T393V5A;
+				DEVELOPMENT_TEAM = WC92Z884R6;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = partII/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.rogerboesch.tutorial.partII;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kelvinreid.flightarcade;
+				PRODUCT_NAME = "Flight Arcade";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -922,13 +945,16 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = F46T393V5A;
+				DEVELOPMENT_TEAM = WC92Z884R6;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = partIV/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.rogerboesch.tutorial.partIV;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kelvinreid.flightarcade;
+				PRODUCT_NAME = "Flight Arcade";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -943,13 +969,16 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = F46T393V5A;
+				DEVELOPMENT_TEAM = WC92Z884R6;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = partIV/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.rogerboesch.tutorial.partIV;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kelvinreid.flightarcade;
+				PRODUCT_NAME = "Flight Arcade";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -965,13 +994,16 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = F46T393V5A;
+				DEVELOPMENT_TEAM = WC92Z884R6;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = partV/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.rogerboesch.tutorial.partV;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kelvinreid.flightarcade;
+				PRODUCT_NAME = "Flight Arcade";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -986,13 +1018,16 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = F46T393V5A;
+				DEVELOPMENT_TEAM = WC92Z884R6;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = partV/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.rogerboesch.tutorial.partV;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kelvinreid.flightarcade;
+				PRODUCT_NAME = "Flight Arcade";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -1008,13 +1043,16 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = F46T393V5A;
+				DEVELOPMENT_TEAM = WC92Z884R6;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = partVI/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.rogerboesch.tutorial.partVI;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kelvinreid.flightarcade;
+				PRODUCT_NAME = "Flight Arcade";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -1029,13 +1067,16 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = F46T393V5A;
+				DEVELOPMENT_TEAM = WC92Z884R6;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = partVI/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.rogerboesch.tutorial.partVI;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kelvinreid.flightarcade;
+				PRODUCT_NAME = "Flight Arcade";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -1051,13 +1092,16 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = F46T393V5A;
+				DEVELOPMENT_TEAM = WC92Z884R6;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = partIII/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.rogerboesch.tutorial.partIII;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kelvinreid.flightarcade;
+				PRODUCT_NAME = "Flight Arcade";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -1072,13 +1116,16 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = F46T393V5A;
+				DEVELOPMENT_TEAM = WC92Z884R6;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = partIII/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.rogerboesch.tutorial.partIII;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kelvinreid.flightarcade;
+				PRODUCT_NAME = "Flight Arcade";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
