@@ -14,7 +14,7 @@ import SceneKit
 // -----------------------------------------------------------------------------
 
 class GameLevel: SCNScene, SCNSceneRendererDelegate, SCNPhysicsContactDelegate {
-    private let levelWidth = 320
+    private let levelWidth = 500
     private let levelLength = 320
     
     private var _terrain: RBTerrain?
