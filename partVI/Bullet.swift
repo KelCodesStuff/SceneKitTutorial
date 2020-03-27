@@ -16,7 +16,7 @@ class Bullet : GameObject {
     private static let lifeTime: TimeInterval = 3.0     // Life time of a bullet in s
     
     private var _enemy = false                          // Bullet show by player/enemy
-    private var _speed: CGFloat = 2.0                   // Speed of th ebullet
+    private var _speed: CGFloat = 2.0                   // Speed of the bullet
     
     private var _bulletNode: SCNNode!
     
