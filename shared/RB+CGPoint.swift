@@ -29,19 +29,19 @@ public extension CGPoint {
     
     // ------------------------------------------------------------------------------
     
-    public init(vector: CGVector) {
+    init(vector: CGVector) {
         self.init(x: vector.dx, y: vector.dy)
     }
     
     // ------------------------------------------------------------------------------
     
-    public init(angle: CGFloat) {
+    init(angle: CGFloat) {
         self.init(x: cos(angle), y: sin(angle))
     }
     
     // ------------------------------------------------------------------------------
     
-    public mutating func offset(_ dx: CGFloat, dy: CGFloat) -> CGPoint {
+    mutating func offset(_ dx: CGFloat, dy: CGFloat) -> CGPoint {
         x += dx
         y += dy
         
@@ -50,13 +50,13 @@ public extension CGPoint {
     
     // ------------------------------------------------------------------------------
     
-    public func length() -> CGFloat {
+    func length() -> CGFloat {
         return sqrt(x*x + y*y)
     }
     
     // ------------------------------------------------------------------------------
     
-    public func lengthSquared() -> CGFloat {
+    func lengthSquared() -> CGFloat {
         return x*x + y*y
     }
     
@@ -70,7 +70,7 @@ public extension CGPoint {
     
     // ------------------------------------------------------------------------------
     
-    public mutating func normalize() -> CGPoint {
+    mutating func normalize() -> CGPoint {
         self = normalized()
         
         return self
@@ -78,13 +78,13 @@ public extension CGPoint {
     
     // ------------------------------------------------------------------------------
     
-    public func distanceTo(_ point: CGPoint) -> CGFloat {
+    func distanceTo(_ point: CGPoint) -> CGFloat {
         return (self - point).length()
     }
     
     // ------------------------------------------------------------------------------
     
-    public var angle: CGFloat {
+    var angle: CGFloat {
         return atan2(y, x)
     }
     
