@@ -510,6 +510,7 @@
 					DBDCD5A11FF3D54B00C38FCF = {
 						CreatedOnToolsVersion = 9.1;
 						DevelopmentTeam = WC92Z884R6;
+						LastSwiftMigration = 1140;
 						ProvisioningStyle = Automatic;
 					};
 					DBF8C5EB1FEE73D700FAADF4 = {
@@ -1053,7 +1054,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.kelvinreid.flightarcade;
 				PRODUCT_NAME = "Flight Arcade";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -1077,7 +1078,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.kelvinreid.flightarcade;
 				PRODUCT_NAME = "Flight Arcade";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
